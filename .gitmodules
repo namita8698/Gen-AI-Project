@@ -7,3 +7,6 @@
 [submodule "repo8"]
 	path = repo8
 	url = https://github.com/namita8698/workflow-automation-n8n.git
+[submodule "repo6"]
+	path = repo6
+	url = https://github.com/namita8698/Summarization-Engine

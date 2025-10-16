@@ -1,0 +1,9 @@
+[submodule "repo1"]
+	path = repo1
+	url = https://github.com/namita8698/Campaign-Chatbot-with-Memory.git
+[submodule "repo2"]
+	path = repo2
+	url = https://github.com/namita8698/AI-Agent-with-External-Tool-Access.git
+[submodule "repo8"]
+	path = repo8
+	url = https://github.com/namita8698/workflow-automation-n8n.git

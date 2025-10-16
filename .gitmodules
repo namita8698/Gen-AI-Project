@@ -16,3 +16,6 @@
 [submodule "repo4"]
 	path = repo4
 	url = https://github.com/namita8698/Task-4-RAG-Part-2
+[submodule "repo5"]
+	path = repo5
+	url = https://github.com/namita8698/SQL-QA-System-Ad-Performance-Audience-Data-.git

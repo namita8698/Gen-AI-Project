@@ -10,3 +10,9 @@
 [submodule "repo6"]
 	path = repo6
 	url = https://github.com/namita8698/Summarization-Engine
+[submodule "repo3"]
+	path = repo3
+	url = https://github.com/namita8698/Task-3-RAG---Part-1
+[submodule "repo4"]
+	path = repo4
+	url = https://github.com/namita8698/Task-4-RAG-Part-2
